@@ -15,9 +15,12 @@
 Для работы использует [3SD](https://arxiv.org/pdf/2203.04478), OpenCV, а таже [turning function](https://ieeexplore.ieee.org/document/75509).
 
 Для бинаризации маски используем динамический трешхолд, для кластеризации DBSCAN. Более подробно в [презентации](aaa)
+[img](blob/main/imgs/dynamic_tresh.png?raw=true)
+[img](https://github.com/alex-utk/salient-object-inpainter/blob/main/imgs/dynamic_tresh.png?raw=true)
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 ---
 ## Демо
 
-<video src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4"></video>
+<video src="https://github.com/alex-utk/salient-object-inpainter/assets/46720955/25fdb5a6-ecaa-4b87-9be0-445f1e495365"></video>  
+
